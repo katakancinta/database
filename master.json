@@ -2,19 +2,11 @@
   "database": [
     {
       "packagename": "com.namadev.kon",
-      "keys_applovin": [
-        {
-          "keys": "USzlAaelz21fl3gijUHUg4lKArkwr1bJLf4U9IvSGAAdlsH8eQRMGJHcc2gTzR+qUK0XpH9po40dRaPV+FCa/KDHRyCls34VAR4a4pNi5b0="
-        }
-      ]
+      "keys": "USzlAaelz21fl3gijUHUg4lKArkwr1bJLf4U9IvSGAAdlsH8eQRMGJHcc2gTzR+qUK0XpH9po40dRaPV+FCa/KDHRyCls34VAR4a4pNi5b0="
     },
     {
       "packagename": "com.berkah.app",
-      "keys_applovin": [
-        {
-          "keys": "USzlAaelz21fl3gijUHUg4lKArkwr1bJLf4U9IvSGAAdlsH8eQRMGJHcc2gTzR+qUK0XpH9po40dRaPV+FCa/KDHRyCls34VAR4a4pNi5b0="
-        }
-      ]
+      "keys": ""
     }
   ]
 }
